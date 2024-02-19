@@ -1,2 +1,2 @@
 # IntegerSum
-Mult-featured Java application for taking the sum of integers
+Multi-featured Java application for taking the sum of integers
